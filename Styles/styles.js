@@ -13,7 +13,6 @@ const styles = StyleSheet.create({
         backgroundColor: '#C6AC8F',
         alignItems: 'center',
         justifyContent: 'center',
-        paddingTop: 100,
     },
     subTitle: {
         color: '#22333B',
